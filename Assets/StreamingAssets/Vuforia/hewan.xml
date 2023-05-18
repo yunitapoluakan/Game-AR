@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="3ULAT" size="50.000000 60.000000" />
+    <ImageTarget name="3NYAMUK" size="50.000000 60.000000" />
+    <ImageTarget name="3MERPATI" size="50.000000 60.000000" />
+    <ImageTarget name="3LIPAN" size="50.000000 60.000000" />
+    <ImageTarget name="3LEBAH" size="50.000000 60.000000" />
+    <ImageTarget name="3LABA" size="50.000000 60.000000" />
+    <ImageTarget name="3KUPU" size="50.000000 60.000000" />
+    <ImageTarget name="3KUMBANGRUSA" size="50.000000 60.000000" />
+    <ImageTarget name="3KUMBANG" size="50.000000 60.000000" />
+    <ImageTarget name="3KELELAWAR" size="50.000000 60.000000" />
+    <ImageTarget name="3KALAJENGKING" size="50.000000 60.000000" />
+    <ImageTarget name="3GAGAK" size="50.000000 60.000000" />
+    <ImageTarget name="3ELANG" size="50.000000 60.000000" />
+    <ImageTarget name="3CAPUNG" size="50.000000 60.000000" />
+    <ImageTarget name="3BELALANG" size="50.000000 60.000000" />
+    <ImageTarget name="1TIKUS" size="50.000000 60.000000" />
+    <ImageTarget name="1ALPACA" size="50.000000 60.000000" />
+    <ImageTarget name="1ANJING" size="50.000000 60.000000" />
+    <ImageTarget name="1AYAM" size="50.000000 60.000000" />
+    <ImageTarget name="1KELINCI" size="50.000000 60.000000" />
+    <ImageTarget name="1SAPI" size="50.000000 60.000000" />
+    <ImageTarget name="1KUDA" size="50.000000 60.000000" />
+    <ImageTarget name="1KUCING" size="50.000000 60.000000" />
+    <ImageTarget name="1KAMBING" size="50.000000 60.000000" />
+    <ImageTarget name="1DOMBA" size="50.000000 60.000000" />
+    <ImageTarget name="1BEBEK" size="50.000000 60.000000" />
+    <ImageTarget name="1BABI" size="50.000000 60.000000" />
+    <ImageTarget name="2ZEBRA" size="50.000000 60.000000" />
+    <ImageTarget name="2ULAR" size="50.000000 60.000000" />
+    <ImageTarget name="2SINGA" size="50.000000 60.000000" />
+    <ImageTarget name="2RUSA" size="50.000000 60.000000" />
+    <ImageTarget name="2MONYET" size="50.000000 60.000000" />
+    <ImageTarget name="2MACANTUTUL" size="50.000000 60.000000" />
+    <ImageTarget name="2KANGURU" size="50.000000 60.000000" />
+    <ImageTarget name="2JERAPAH" size="50.000000 60.000000" />
+    <ImageTarget name="2HARIMAU" size="50.000000 60.000000" />
+    <ImageTarget name="2GAJAH" size="50.000000 60.000000" />
+    <ImageTarget name="2BERUANG" size="50.000000 60.000000" />
+    <ImageTarget name="2BADAK" size="50.000000 60.000000" />
+    <ImageTarget name="4BELUT" size="50.000000 60.000000" />
+    <ImageTarget name="4paus" size="50.000000 60.000000" />
+    <ImageTarget name="4UDANG" size="50.000000 60.000000" />
+    <ImageTarget name="4UBUR" size="50.000000 60.000000" />
+    <ImageTarget name="4KURA" size="50.000000 60.000000" />
+    <ImageTarget name="4KUDALAUT" size="50.000000 60.000000" />
+    <ImageTarget name="4IKANPARI" size="50.000000 60.000000" />
+    <ImageTarget name="4IKAN" size="50.000000 60.000000" />
+    <ImageTarget name="4GURITA" size="50.000000 60.000000" />
+    <ImageTarget name="4BUAYA" size="50.000000 60.000000" />
+    <ImageTarget name="4BINTANGLAUT" size="50.000000 60.000000" />
+    <ImageTarget name="4LUMBA" size="50.000000 60.000000" />
+    <ImageTarget name="4KEPITING" size="50.000000 60.000000" />
+    <ImageTarget name="4IKANHIU" size="50.000000 60.000000" />
+  </Tracking>
+</QCARConfig>
